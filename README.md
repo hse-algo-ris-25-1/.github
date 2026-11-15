@@ -1,10 +1,11 @@
 # .github
 
-Служебный репозиторий организации.
+Служебный репозиторий организации: в нём лежат файлы, которые GitHub показывает
+на странице организации и в новых issues.
 
-- `profile/README.md` — текст на главной странице организации: https://github.com/hse-algo-ris-25-1
-- `ISSUE_TEMPLATE/` — шаблон обращения об ошибке в задании или инструкции, общий для всех
-  репозиториев организации. Работает как файлы сообщества: подхватывается там, где нет своего.
+- `profile/README.md` — текст на главной странице: https://github.com/hse-algo-ris-25-1
+- `ISSUE_TEMPLATE/` — шаблон обращения об ошибке в задании или инструкции (общий для всех
+  репозиториев организации)
 
-Здесь же удобно держать другие общие для организации файлы: `SECURITY.md`, `CONTRIBUTING.md`,
-`CODE_OF_CONDUCT.md`, шаблон pull request по умолчанию (`PULL_REQUEST_TEMPLATE.md` в корне).
+Материалы курса — в репозиториях [code-tasks](https://github.com/hse-algo-ris-25-1/code-tasks),
+[manual-tasks](https://github.com/hse-algo-ris-25-1/manual-tasks) и [docs](https://github.com/hse-algo-ris-25-1/docs).
